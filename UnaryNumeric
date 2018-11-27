@@ -1,0 +1,10 @@
+public class UnaryNumeric{
+
+     public static void main(String []args){
+        
+        byte b=1;
+        short s = -b;
+        System.out.println(s);
+        
+     }
+}
